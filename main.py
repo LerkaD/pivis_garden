@@ -50,5 +50,5 @@ if command_for_start == "save":
         pickle.dump(smth, file)
     file.close()
     print("garden is saved")
-
+print('popa')
 
